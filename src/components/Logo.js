@@ -12,7 +12,7 @@ const Logo = () => {
       "
     >
       <img src={logoSvg} alt="NyroCrypto" className="w-[25%] h-auto" />
-      <span>CryptoBucks</span>
+      <span>NyroCrypto</span>
     </Link>
   );
 };
