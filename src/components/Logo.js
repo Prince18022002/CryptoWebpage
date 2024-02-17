@@ -11,7 +11,7 @@ const Logo = () => {
       sm:text-lg text-md
       "
     >
-      <img src={logoSvg} alt="CryptoBucks" className="w-[25%] h-auto" />
+      <img src={logoSvg} alt="NyroCrypto" className="w-[25%] h-auto" />
       <span>CryptoBucks</span>
     </Link>
   );
